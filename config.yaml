@@ -1,7 +1,7 @@
 ## config.yaml
 
 data_sources:
-  … original data source skipped …
+  # … original data source skipped …
   -
     type: static
     items_root: /static/
